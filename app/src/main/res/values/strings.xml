@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UsedShop</string>
+    <string name="shop">市场</string>
+    <string name="message">消息</string>
+    <string name="people">联系</string>
+    <string name="mine">我的</string>
+    <string name="goods_name">商品名称</string>
+    <string name="goods_price">价格</string>
+    <string name="goods_type">类型</string>
+    <string name="goods_description">描述</string>
+    <string name="goods_details">商品信息</string>
+    <string name="goods_master">发布者</string>
+    <string name="loading_error">加载异常……</string>
+    <string name="send_msg">发送消息</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
